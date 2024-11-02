@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="/var/home/pixelguy14/Documentos/SemAgo-Dic-2024/Topicos_Sistemas_Comp/Proyecto_Final/Prueba01" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="/var/home/pixelguy14/Documentos/SemAgo-Dic-2024/Topicos_Sistemas_Comp/Proyecto_Final/Prueba01" />
+            <option value="/var/home/pixelguy14/Documentos/SemAgo-Dic-2024/Topicos_Sistemas_Comp/Proyecto_Final/Prueba01/app" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
